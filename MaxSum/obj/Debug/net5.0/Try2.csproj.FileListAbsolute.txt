@@ -1,0 +1,16 @@
+C:\Users\Bobi\source\repos\Try2\Try2\bin\Debug\net5.0\Try2.exe
+C:\Users\Bobi\source\repos\Try2\Try2\bin\Debug\net5.0\Try2.deps.json
+C:\Users\Bobi\source\repos\Try2\Try2\bin\Debug\net5.0\Try2.runtimeconfig.json
+C:\Users\Bobi\source\repos\Try2\Try2\bin\Debug\net5.0\Try2.runtimeconfig.dev.json
+C:\Users\Bobi\source\repos\Try2\Try2\bin\Debug\net5.0\Try2.dll
+C:\Users\Bobi\source\repos\Try2\Try2\bin\Debug\net5.0\ref\Try2.dll
+C:\Users\Bobi\source\repos\Try2\Try2\bin\Debug\net5.0\Try2.pdb
+C:\Users\Bobi\source\repos\Try2\Try2\obj\Debug\net5.0\Try2.csprojAssemblyReference.cache
+C:\Users\Bobi\source\repos\Try2\Try2\obj\Debug\net5.0\Try2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobi\source\repos\Try2\Try2\obj\Debug\net5.0\Try2.AssemblyInfoInputs.cache
+C:\Users\Bobi\source\repos\Try2\Try2\obj\Debug\net5.0\Try2.AssemblyInfo.cs
+C:\Users\Bobi\source\repos\Try2\Try2\obj\Debug\net5.0\Try2.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\source\repos\Try2\Try2\obj\Debug\net5.0\Try2.dll
+C:\Users\Bobi\source\repos\Try2\Try2\obj\Debug\net5.0\ref\Try2.dll
+C:\Users\Bobi\source\repos\Try2\Try2\obj\Debug\net5.0\Try2.pdb
+C:\Users\Bobi\source\repos\Try2\Try2\obj\Debug\net5.0\Try2.genruntimeconfig.cache

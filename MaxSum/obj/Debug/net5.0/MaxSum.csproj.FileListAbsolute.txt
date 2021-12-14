@@ -1,0 +1,17 @@
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\bin\Debug\net5.0\MaxSum.exe
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\bin\Debug\net5.0\file.txt
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\bin\Debug\net5.0\MaxSum.deps.json
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\bin\Debug\net5.0\MaxSum.runtimeconfig.json
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\bin\Debug\net5.0\MaxSum.runtimeconfig.dev.json
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\bin\Debug\net5.0\MaxSum.dll
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\bin\Debug\net5.0\ref\MaxSum.dll
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\bin\Debug\net5.0\MaxSum.pdb
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\obj\Debug\net5.0\MaxSum.csprojAssemblyReference.cache
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\obj\Debug\net5.0\MaxSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\obj\Debug\net5.0\MaxSum.AssemblyInfoInputs.cache
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\obj\Debug\net5.0\MaxSum.AssemblyInfo.cs
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\obj\Debug\net5.0\MaxSum.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\obj\Debug\net5.0\MaxSum.dll
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\obj\Debug\net5.0\ref\MaxSum.dll
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\obj\Debug\net5.0\MaxSum.pdb
+C:\Users\Bobi\source\repos\MaxSum\MaxSum\obj\Debug\net5.0\MaxSum.genruntimeconfig.cache
